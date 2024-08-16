@@ -1,5 +1,5 @@
 # Meeting-Scheduling-System-LLD
-![Meet](https://github.com/user-attachments/assets/37c560a4-10d6-45f1-9693-2272c8d0f6aa)
+![Meet](https://github.com/user-attachments/assets/73877b1b-bc79-4742-8770-85e70c6cef35)
 
 # MeetingScheduler
 
