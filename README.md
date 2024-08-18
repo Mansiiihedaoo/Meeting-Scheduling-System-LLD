@@ -49,7 +49,7 @@ The application is structured using the following UML objects and relationships:
 - `Scheduler.java`: Handles the core scheduling logic, including checking availability, booking rooms, and managing attendee lists.
 - `TimeInterval.java`: Represents the start and end times of meetings and provides logic for checking overlapping intervals.
 - `User.java`: Represents a user with personal meeting schedules, associated with the `Calendar`.
-- 
+  
 
 
 
