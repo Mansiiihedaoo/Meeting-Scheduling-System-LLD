@@ -5,6 +5,15 @@
 
 A Java-based meeting scheduler application that allows users to schedule, modify, and cancel meetings, as well as manage attendee availability and room bookings.
 
+## Components
+
+- **`Meeting Scheduler`**
+- **`Attendee`**
+- **`Meeting`**
+- **`Room`**
+- **`NotificationSystem`**
+
+ 
 ## Features
 
 - Schedule meetings with attendees and rooms.
